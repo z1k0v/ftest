@@ -3,7 +3,7 @@
 function App() {
   return (
     <div>
-      <h1>Hello F Zikov</h1>
+      <h1>Hello F Zikovski</h1>
     </div>
   );
 }
